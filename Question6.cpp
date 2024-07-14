@@ -23,7 +23,7 @@ int main(){
     dp[0]=1;
     dp[1]=1;
     
-    cout<<"The factorial of the givent number is"<<endl;
+    cout<<"The factorial of the given number is"<<endl;
     factorial(n,dp);
     cout<<dp[n]<<endl;
 
